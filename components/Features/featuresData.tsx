@@ -4,44 +4,44 @@ const featuresData: Feature[] = [
   {
     id: 1,
     icon: "/images/icon/icon-01.svg",
-    title: "Crafted for SaaS",
+    title: "RealTime Data",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Product, Sales, Inventory & Management data updates real time across all the apps automatically.",
   },
   {
     id: 2,
     icon: "/images/icon/icon-02.svg",
-    title: "High-quality Design",
+    title: "User-friendly Design",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "SkyPOS has a modern, touch screen friendly innovative design.",
   },
   {
     id: 3,
     icon: "/images/icon/icon-03.svg",
-    title: "Next.js 13 + TypeScript",
+    title: "Built for Tablets and iPads",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "SkyPOS is designed to run on Android Tablet devices and iPads seamlessly.",
   },
   {
     id: 4,
     icon: "/images/icon/icon-04.svg",
-    title: "Sanity Blog and Docs",
+    title: "Plug and Play",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "SkyPOS leverages internet connectivity to eliminate the need for complex network hardware, simplifying setup and maintenance.",
   },
   {
     id: 5,
     icon: "/images/icon/icon-05.svg",
-    title: "DB, Auth and Stripe",
+    title: "GDPR and CCPA Complience Data Security",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "SkyPOS ensures robust data security with full compliance to GDPR and CCPA standards.",
   },
   {
     id: 6,
     icon: "/images/icon/icon-06.svg",
     title: "Regular Free Updates",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "SkyPOS delivers regular free software updates to all of its products to ensure data security and app stability.",
   },
 ];
 

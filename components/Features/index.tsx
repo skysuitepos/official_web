@@ -13,11 +13,10 @@ const Feature = () => {
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
-              title: "SOLID FEATURES",
-              subtitle: "Core Features of Solid",
-              description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-            convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam
-            ante in maximus.`,
+              title: "SKYPOS FEATURES",
+              subtitle: "Core Features of SkyPOS 360",
+              description: `SkyPOS 360 offers seamless restaurant sales management with features like real-time 
+              databse, robust sales analytics, and multi-location support`,
             }}
           />
           {/* <!-- Section Title End --> */}
