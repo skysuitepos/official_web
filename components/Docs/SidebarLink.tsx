@@ -11,23 +11,17 @@ const SidebarLink = () => {
         >
           Introduction
         </Link>
+        {/* <Link
+          href={`/privacy-policy`}
+          className={`flex w-full rounded-sm px-3 py-2 text-base text-black dark:text-white `}
+        >
+          Privacy Policy
+        </Link> */}
         <Link
           href={`/docs`}
           className={`flex w-full rounded-sm px-3 py-2 text-base text-black dark:text-white `}
         >
-          Bootstrap Template Guide
-        </Link>
-        <Link
-          href={`/docs`}
-          className={`flex w-full rounded-sm px-3 py-2 text-base text-black dark:text-white `}
-        >
-          Style Guide
-        </Link>
-        <Link
-          href={`/docs`}
-          className={`flex w-full rounded-sm px-3 py-2 text-base text-black dark:text-white `}
-        >
-          Using Tailwind Components
+          Terms and Conditions
         </Link>
       </li>
     </>
