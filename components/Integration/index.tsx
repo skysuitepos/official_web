@@ -11,9 +11,9 @@ const Integration = () => {
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
-              title: `INTEGRATIONS`,
-              subtitle: `Remotely Maintain Your Data, From Anywhere, Anytime.`,
-              description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+              title: `SkyPOS SUITE`,
+              subtitle: `A Suite of Modern Applications`,
+              description: `A comprehensive suite of applications and web-based solutions designed to seamlessly streamline restaurant operations remotely, ensuring effortless management and enhanced efficiency.`,
             }}
           />
 
