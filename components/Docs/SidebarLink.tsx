@@ -11,12 +11,12 @@ const SidebarLink = () => {
         >
           Introduction
         </Link>
-        {/* <Link
+        <Link
           href={`/privacy-policy`}
           className={`flex w-full rounded-sm px-3 py-2 text-base text-black dark:text-white `}
         >
           Privacy Policy
-        </Link> */}
+        </Link>
         <Link
           href={`/docs`}
           className={`flex w-full rounded-sm px-3 py-2 text-base text-black dark:text-white `}
