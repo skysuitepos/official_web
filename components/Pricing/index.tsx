@@ -61,7 +61,7 @@ const Pricing = () => {
                 </ul>
               </div>
 
-              <button
+              {/* <button
                 aria-label="Get the Plan button"
                 className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
               >
@@ -79,7 +79,7 @@ const Pricing = () => {
                     fill="currentColor"
                   />
                 </svg>
-              </button>
+              </button> */}
             </div>
 
             {/* <!-- Pricing Item --> */}
@@ -116,7 +116,7 @@ const Pricing = () => {
                 </ul>
               </div>
 
-              <button
+              {/* <button
                 aria-label="Get the Plan button"
                 className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
               >
@@ -134,7 +134,7 @@ const Pricing = () => {
                     fill="currentColor"
                   />
                 </svg>
-              </button>
+              </button> */}
             </div>
 
             {/* <!-- Pricing Item --> */}
@@ -166,7 +166,7 @@ const Pricing = () => {
                   </li>
                 </ul>
               </div>
-
+{/* 
               <button
                 aria-label="Get the Plan button"
                 className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
@@ -185,7 +185,7 @@ const Pricing = () => {
                     fill="currentColor"
                   />
                 </svg>
-              </button>
+              </button> */}
             </div>
           </div>
         </div>

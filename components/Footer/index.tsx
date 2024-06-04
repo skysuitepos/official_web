@@ -53,7 +53,14 @@ const Footer = () => {
                   contact
                 </p>
                 <a
-                  href="#"
+                  href=""
+                  className="text-itemtitle font-medium text-black dark:text-white"
+                >
+                  (+94) 76 578 3980
+                </a>
+                <br/>
+                <a
+                  href=""
                   className="text-itemtitle font-medium text-black dark:text-white"
                 >
                   info@skypos360.com
